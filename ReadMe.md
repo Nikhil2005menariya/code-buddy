@@ -1,6 +1,6 @@
-# Repo Agent 🤖📂
+# Code Budy 🤖📂
 
-Repo Agent is an AI-powered codebase assistant that allows users to:
+code budy  is an AI-powered codebase assistant that allows users to:
 
 - Authenticate and manage multiple projects
 - Index a local repository into a vector database (ChromaDB)
